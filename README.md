@@ -8,3 +8,17 @@ The objective of this project is to:
 - Visualize data distribution using Gaussian distribution
 - Understand how data symmetry and skewness affect statistical measures
 - Build a strong foundation for data analysis and machine learning preprocessing
+
+## Methodology
+1. Load and analyze the dataset
+2. Calculate mean, median, and mode
+3. Understand the relationship between these measures
+4. Implement Gaussian distribution
+5. Visualize the distribution using plots
+6. Interpret the results based on data behaviorMethodology
+1. Load and analyze the dataset
+2. Calculate mean, median, and mode
+3. Understand the relationship between these measures
+4. Implement Gaussian distribution
+5. Visualize the distribution using plots
+6. Interpret the results based on data behavior
