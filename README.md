@@ -28,3 +28,15 @@ The objective of this project is to:
 - Median: Identifies the middle value after sorting the data
 - Mode: Determines the most frequently occurring value
 - Gaussian Distribution: Represents a normal distribution where data is symmetrically distributed around the mean
+
+## Visualization
+Data visualization is performed to represent the Gaussian distribution. Plots help in understanding data spread, symmetry, and how mean, median,
+and mode align in a normal distribution.
+
+## Insights
+- In a Gaussian distribution, mean, median, and mode are approximately equal
+- Visualization helps detect skewness and data spread
+- Understanding data distribution is critical before applying machine learning models
+
+## Conclusion
+This project demonstrates how statistical measures and Gaussian distribution play a crucial role in data understanding. Visual and numerical analysis of mean, median, and mode helps in making informed decisions during data preprocessing and model selection.
