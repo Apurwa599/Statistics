@@ -22,3 +22,9 @@ The objective of this project is to:
 4. Implement Gaussian distribution
 5. Visualize the distribution using plots
 6. Interpret the results based on data behavior
+
+## Statistical Concepts
+- Mean: Measures the average value of the dataset
+- Median: Identifies the middle value after sorting the data
+- Mode: Determines the most frequently occurring value
+- Gaussian Distribution: Represents a normal distribution where data is symmetrically distributed around the mean
